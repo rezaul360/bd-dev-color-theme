@@ -1,0 +1,46 @@
+{
+  "name": "bd-dev-color-theme",
+  "displayName": "BD Dev Color Theme",
+  "description": "Official VS Code theme of BD dev color theme!",
+  "icon": "images/logo.png",
+  "version": "0.0.1",
+  "publisher": "BDDevColorTheme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rezaul360/rezaul360-vscode-theme"
+  },
+  "engines": {
+    "vscode": "^1.16.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "light theme",
+    "bd dev color theme",
+    "bddevcolortheme",
+    "bd dev",
+    "BD Dev Color Theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "BD dev color theme - Professional",
+        "uiTheme": "vs-dark",
+        "path": "./themes/BD Dev Color Theme-color-theme.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "id": "BDDevColorTheme",
+    "publisherId": "Rezaul360Theme",
+    "publisherDisplayName": "Rezaul360",
+    "targetPlatform": "undefined",
+    "updated": false,
+    "isPreReleaseVersion": false,
+    "preRelease": false,
+    "installedTimestamp": 1654016901197
+  }
+}
